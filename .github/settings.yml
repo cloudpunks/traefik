@@ -1,6 +1,6 @@
 ---
 repository:
-  name: traefik
+  name: ansible-traefik
   description: Ansible role to install and configure Traefik reverse proxy
   topics: ansible, role, ansible-role, hacktoberfest
 
